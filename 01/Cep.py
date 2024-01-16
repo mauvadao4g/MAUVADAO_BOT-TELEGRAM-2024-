@@ -1,7 +1,7 @@
 import telebot
 import requests, json
 
-bot = telebot.TeleBot(token='6174988485:AAEjYdZArdNtM7VUjsFw3hbjegmrrDRxsFk', parse_mode='HTML')
+bot = telebot.TeleBot(token='SEU_TOKEN_TELEGRAM', parse_mode='HTML')
 
 
 #$ 1. TUTORIAL: --> register_next_step_handler()
