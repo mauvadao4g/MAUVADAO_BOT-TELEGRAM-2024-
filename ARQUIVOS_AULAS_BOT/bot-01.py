@@ -3,7 +3,7 @@ import telebot, csv
 from telebot import types
 import requests
 
-bot = telebot.TeleBot(token='6174988485:AAEjYdZArdNtM7VUjsFw3hbjegmrrDRxsFk', parse_mode='HTML')
+bot = telebot.TeleBot(token='SEU_TOKEN_TELEGRAM', parse_mode='HTML')
 
 
 def salvar(id_telegram):
